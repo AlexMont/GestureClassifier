@@ -1,4 +1,4 @@
-# GestureClassifier
+# Gesture Classifier
 
 This repository is a demo gesture classifier. It aims to determine if a gesture is positive or negative.
 

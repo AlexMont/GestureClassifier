@@ -2,7 +2,7 @@
 
 This repository is a demo gesture classifier. It aims to determine if a gesture is positive or negative.
 
-# Usage.
+# Usage:
 
 I assume that you will use Google Colab to run the classifier.
 So, for that there are some simple steps:

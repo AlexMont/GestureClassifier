@@ -2,7 +2,7 @@
 
 This repository is a demo gesture classifier using fastai framework. It aims to determine if a gesture is positive or negative.
 
-The dataset for train and validation was built using Google Images and the test dataset was made by me and the collaboration of some friends.
+The dataset for train and validation was built using Google Images and the test dataset was made by me and some friends.
 
 There are two classes:
 THUMBSUP representing the positive gestures and THUMBSDOWN representing negative gestures.

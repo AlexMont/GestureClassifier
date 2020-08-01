@@ -2,6 +2,13 @@
 
 This repository is a demo gesture classifier. It aims to determine if a gesture is positive or negative.
 
+The dataset for train and validation was built using Google Images and the test dataset was made by me and the collaboration of some friends.
+
+There are two classes:
+THUMBSUP representing the positive gestures and THUMBSDOWN representing negative gestures.
+
+The model used is the ResNet152. A complex model for a complex dataset.
+
 # Usage:
 
 I assume that you will use Google Colab to run the classifier.
